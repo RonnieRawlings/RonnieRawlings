@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RonnieRawlings
+- 👋 Hi, I’m @RonnieRawlings head of Rowlin Studios
 - 👀 I’m interested in games development, specificlly the programming aspects.
 - 🌱 I’m currently learning Python, C#, and Unity.
 - 💞️ I’m looking to collaborate on a range of Games Design Projects.
